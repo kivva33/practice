@@ -1,0 +1,3 @@
+<img style="margin:10px 0;" src="https://w.bookcdn.com/weather/picture/31_19830_1_20_3498db_250_2980b9_ffffff_ffffff_1_2071c9_ffffff_0_6.png?scode=124&domid=589&anc_id=79389" alt="booked.net"/>
+<img style="margin:10px 0;" src="https://w.bookcdn.com/weather/picture/31_33267_1_20_3658db_250_2a48ba_ffffff_ffffff_1_2071c9_ffffff_0_6.png?scode=124&domid=589&anc_id=79389"  alt="booked.net"/> 
+<img style="margin:10px 0;" src="https://w.bookcdn.com/weather/picture/31_61242_1_20_17bc9c_250_13a085_ffffff_ffffff_1_2071c9_ffffff_0_6.png?scode=124&domid=589&anc_id=79389"  alt="booked.net"/>
